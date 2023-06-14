@@ -1,0 +1,64 @@
+header{
+    background-color: white;
+    width: 1000px;
+    height: 150px;
+    margin:auto;
+    display: flex;
+    align-items: center;
+  
+  }
+  section{
+    background-color: white;
+    width: 800px;
+    height: 200px;
+    margin:auto;
+    border: 2cm;
+    float: left;
+   
+  
+  
+  
+  
+  
+  }
+  footer{
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin: auto;
+    float: right;
+  
+  
+  
+  
+  
+  }
+  body{
+    background-color: white;
+  }
+  .container{
+    background-color: ;
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+  
+  
+  }
+  h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 300%;
+  
+  }
+  p  {
+    color: blue;
+    font-family: courier;
+    font-size: 110%;
+  }
+  h2 {
+    color: red;
+    font-family: verdana;
+    font-size: 160%;
+  
+  }
